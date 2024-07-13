@@ -1,10 +1,12 @@
 # Search properties with one prompt
 
 Developed to get hands on  with Langchain and LangGraph!
+The streamlit-based application designed to help users find their ideal apartments in Pakistan. 
+![Apartment Finder](banner.png)
 
 ## How does it work?
 
-The streamlit-based application designed to help users find their ideal apartments in Pakistan. 
+
 
 The user entered prompt is processed using OpenAI functions with a proper schema that extracts information like location (city and area), budget, size and bedrooms etc.
 
